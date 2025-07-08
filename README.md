@@ -1,5 +1,5 @@
 
-# 📊 Web3 Trading Team Assignment - Sahil
+# 📊 Web3 Trading Team Assignment
 
 ## 📌 Project Overview
 
